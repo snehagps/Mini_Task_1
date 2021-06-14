@@ -1,0 +1,4 @@
+# Persistence of Vision 2D Display
+The core phenomenon on which the entire project is based is the Persistence of vision. Persistence of vision is the phenomenon pertaining to the human eye by which an afterimage is thought to persist for approximately one twenty-fifth of a second on the retina. The way this phenomenon of persistence of vision works is based on the belief that human perception of motion (brain centered) is the result of persistence of vision (eye centered). Any motion that we see around us is the direct implication of persistence of vision phenomenon at work. 
+This project aims to create a POV display which exploits this phenomena by spinning in one dimensional row of LED’s through a two dimensional space at such a high frequency that a two dimensional display is visible
+![image](https://user-images.githubusercontent.com/85859889/121852667-70764480-cd0d-11eb-889b-289bf8d0b2f7.png)
