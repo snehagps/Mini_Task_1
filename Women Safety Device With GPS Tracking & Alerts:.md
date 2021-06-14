@@ -1,0 +1,5 @@
+# Women Safety Device With GPS Tracking & Alerts:
+ The aim of this project is to make a Women Safety Device With GPS Tracking & Alerts.  This device is to be turned on in advance by a woman in case she is walking on a lonely road or some dark alley or any remote area. Only the woman authenticated to the devices can start the system by fingerprint scan. Once started the devices requires the woman to constantly scan her finger on the system every 1 minute, else the system now sends her location to the authorized personnel number through SMS message as a security measure and also sounds a buzzer continuously so that nearby people may realize the situation. In this case even if someone hits the woman or the woman falls down and get unconscious, she does not need to do anything, the system does not get her finger scan in 1 minute and it automatically starts the dual security feature. The device uses GPS sensor along with a gsm modem,lcd display,leds and microcontroller based circuit to achieve this system. 
+ 
+ ## Block Diagram
+ ![image](https://user-images.githubusercontent.com/85859889/121847993-09ee2800-cd07-11eb-957e-90d0ddc21bb2.png)
