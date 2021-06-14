@@ -1,0 +1,7 @@
+# Dry Handwashing Machine By Fog Disinfection To Save Water
+## Aim:
+The aim of this project is to make a Dry Handwashing Machine By Fog Disinfection To Save Water .This is useful especially in this covid time because it we have been suggested to wash your hands multiple number of times per day
+## Working Principle:
+This machine enables water saving using a fog based system. The machine is integrated with a tank below it. The tank is filled with water along with any safe herbal disinfectant liquid if required. When the user rubs soap on his/her hands and inserts it into the system, this automatically triggers a water fogging system that converts water in the tank to fog and drives it in the handwash chamber.
+Now Fog has the ability to reach all corners of the hand in less than 5 seconds as it is in gaseous state (water vapor). After 5- 15 seconds of water fog exposure the soap on users hand is washed down with the fog. This requires less than 95% of water that would be required in traditional tap based hand washing. The machine consists of a fan to drive in air that is needed to drive the fog into handwash chamber.
+The handwash machine is driven by a Atmega based controller system that allows for manual settings. These settings include the time for which the machine must drive the fog for each user. Thus our proposed machine allows for handwashing for disinfection at the same time while saving lots of water.
