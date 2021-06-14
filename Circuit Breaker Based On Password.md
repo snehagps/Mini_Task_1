@@ -9,5 +9,9 @@ He again needs to enter the password in order to switch ON the circuit.
 Since the control to switch ON/OFF the circuit lies with the lineman himself there is no chance of accidents. The system uses an 8051 microcontroller in order to tally password and a matrix keypad to take password input.
 The system may be later enhanced by integrating with an EEPROM for password changing as and when needed.
 
+## Circuit Diagram :
+![image](https://user-images.githubusercontent.com/85859889/121846694-09549200-cd05-11eb-84db-1e5aae92a3ba.png)
+
+
 
  
